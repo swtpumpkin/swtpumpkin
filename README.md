@@ -14,3 +14,7 @@
   - AWS CodeDeploy
   - Travis CI
   - Circle CI
+- Cloud
+  - AWS
+  - GCP
+  - NCP
