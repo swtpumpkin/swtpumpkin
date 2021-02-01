@@ -3,8 +3,6 @@
 - Javascript
   - Typescript
   - Node.js
-  - Nest.js
-  - Ts.ED
   - Express
 - Database
   - MongoDB
