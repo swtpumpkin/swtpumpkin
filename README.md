@@ -3,6 +3,7 @@
 - Javascript
   - Typescript
   - Node.js
+  - React.js
   - Nest.js
   - Express
 - Database
